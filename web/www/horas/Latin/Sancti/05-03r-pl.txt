@@ -1,0 +1,263 @@
+[Rank]
+Beatæ Mariæ Virginis Reginæ Poloniæ;;Duplex II classis;;5.1;;ex C11
+
+[Rank1960]
+Beatæ Mariæ Virginis Reginæ Poloniæ;;Duplex I classis;;6;;ex C11
+
+[Rule]
+9 lectiones 1960
+
+[Ant Vespera]
+Benedícta es tu, * Virgo María, a Dómino Deo excélso, præ ómnibus muliéribus super terram, allelúia.
+Cíngulo suo * confortávit nos, et potestátem suam dedit in manu nostra, allelúia.
+Tu glória Ierúsalem, * tu lætítia Israel, tu honorificéntia pópuli nostri, allelúia.
+Iustítia * cíngulum lumbórum eius, et fides cinctórium renum eius, allelúia.
+Speciósa facta es * et suávis in delíciis tuis, sancta Dei Génetrix, allelúia.
+
+[Capitulum Vespera]
+!Judith 13:22
+v. Benedíxit te Dóminus in virtúte sua, quia per te te ad níhilum redégit inimícos nostros.
+$Deo gratias
+
+[Hymnus Vespera]
+v. Dum tuos cælum récolit triúmphos,
+Gáudeat tellus, modulétur hymnum,
+O Parens Iesu, benedícta Virgo,
+Immaculáta.
+_
+Quam tuas laudes celebráre præstat!
+Iure Regínam pópulus Polónus
+Te vocat felix; monuménta summi
+Præbet amóris.
+_
+Si malis fractus, lácrimas profúndens,
+Vota certátim géminat, precésque,
+Tu potens frangis rábiem nefándam,
+Tela repéllis.
+_
+Stella splendéscens maris in tumúltu,
+Turris infénsas réprimens phalánges,
+Síngulos cives, tibi dedicátos,
+Perge tuéri.
+_
+Laus sit excélsæ Tríadi perénnis,
+Quæ tibi, Virgo, tríbuit corónam
+Atque regínam statuítque nostram
+Próvida matrem.
+Amen.
+
+[Versum 1]
+V. Regína Polóniæ, intercéde pro nobis, allelúia.
+R. Ut digni efficiámur promissiónibus Christi, allelúia.
+
+[Ant 1]
+Ecce María * erat spes nostra, ad quam confúgimus in auxílium, ut liberáret nos, et venit in adiutórium nobis, allelúia.
+
+[Oratio]
+v. Omnipotens et misericors Deus, qui ad defensiónem pópuli nostri in beatíssima Virgine María, mirábile nobis auxílium constituisti: concéde propitius; ut tali praesidio muníti, certántes in vita, victóriam de hoste malígno cónsequi valeámus in morte.
+$Per Dominum
+
+[Hymnus Matutinum]
+v. Te Redemptóris Dominíque nostri
+Dícimus Matrem, speciósa Virgo,
+Christianórum decus et levámen
+Rebus in arctis.
+_
+Sæviant portæ licet inferórum,
+Hostis antíquus fremat, et mináces,
+Ut Deo sacrum populétur agmen,
+Súscitet iras.
+_
+Nil truces possunt fúriæ nocére
+Méntibus castis, prece quas vocáta
+Annuens Virgo fovet, et supérno
+Róbore firmat.
+_
+Tanta si nobis fáveat Patróna,
+Béllici cessat scéleris tumúltus,
+Mille sternúntur, fugiúntve turmæ,
+Mille cohórtes.
+_
+Laus sit excélsæ Tríadi perénnis,
+Quæ tibi, Virgo, tríbuit corónam
+Atque regínam statuítque nostram
+Próvida matrem.
+Amen.
+
+[Ant Matutinum]
+Præpósuit eam Dóminus * super univérsum regnum suum, et dedit ei diadéma ut regnáret, allelúia.;;8
+;;18
+;;23
+V. Spécie tua et pulchritúdine tua, allelúia.
+R. Inténde, próspere procéde et ad regna, allelúia.
+Astitit regína * a dextris tuis in vestítu deauráto, circúmdata varietáte, allelúia.;;44
+;;45
+;;86
+V. Glória et honore coronásti eam, Dómine, allelúia.
+R. Et constituísti eam super ópera mánuum tuárum, allelúia.
+Coróna áurea * super caput eius, expréssa signo sanctitátis, glóriæ et honóris, allelúia.;;95
+;;96
+;;97
+V. Magna est glória eius in salutári tuo, allelúia.
+R. Glóriam et magnum decórem impónes super eam, allelúia.
+
+[Lectio1]
+@Sancti/05-31
+
+[Responsory1]
+@Sancti/05-31
+
+[Lectio2]
+@Sancti/05-31
+
+[Responsory2]
+@Sancti/05-31
+
+[Lectio3]
+@Sancti/05-31
+
+[Responsory3]
+@Sancti/05-31
+
+[Lectio4]
+Inde ab exórdio religiónis Christiánæ in Polónia tenérrima viget erga Deíparam Vírginem Maríam píetas, quam, ut fertur, sanctus Wojtéchus Adalbértus primus propagávit. Etiam équites Polóni super lorícas scútula imágine beatíssimæ Vírginis ornáta gestáre, et ipsíus auxílium priúsquam cum hoste congredérentur, antíquo cántico « Bogurodzica » imploráre solébant. Hanc Deíparam Vírginem colébant et reges et exércitus duces, qui permúltas sacras ipsíus ædes, per totam Polóniam sitas, visitáre et munificentíssime locupletáre consuevérunt. Quæ mariális devótio gentem Polónam in fidelitáte erga Románam Ecclésiam consolidávit eo témpore, quo finítimi pópuli labe hærética sunt infécti.
+
+[Responsory4]
+R. Tu glória Ierúsalem, tu lætítia Israel, tu honorificéntia pópuli nostri, fecísti viríliter,
+* Quia cunctas hǽreses sola interemísti, allelúia.
+V. Pulchra es et decóra, terríbilis ut castrórum ácies ordináta.
+R. Quia cunctas hǽreses sola interemísti, allelúia.
+
+[Lectio5]
+Regnante Ioánne Casimíro, Polóniam post funésta bella víribus extenuátam Gustávus rex Suéciæ cum ingénti exércitu invásit, ita ut Ioánnes exsul e pátria discédere coáctus fúerit. Hostis victória elátus Clarum Montem Czenstochóviæ, ubi situm erat cœnóbium pervetústo cultu beátæ Maríæ Vírginis celebérrimum, vi opprímere vóluit. Indeféssa ópera prióris cœnóbii Augustíni Kordecki, qui potentíssimum Patrónæ auxílium impetrávit, confúsus hostis ab obsidióne recéssit. Qua re cógnita, tota gens Polonórum in spem erécta e pátria hostem expéllere cœpit. Liberáta Czenstochóvia, Ioánnes Casimírus rex in pátriam revérsus Leópolim venit, ibíque Kaléndis aprílis anno salútis millésimo sexcentésimo quinquagésimo sexto, in ecclésia metropolitána coram veneránda Matris Gratiárum imágine, astántibus archiepíscopis, epíscopis et senatóribus regni, intra Missæ sacrifícium a Petro Vidone, núntio apostólico, celebrátum solémni ritu beátam Maríam Vírginem elégit proclamavítque Patrónam ac Regínam Polóniæ. Simul suo suorúmque populórum nómine promísit se cultum Deíparæ peculiári modo in pátria propagatúrum et apud Sedem Apostólicam impetratúrum, ut in gratiárum actiónem pro victória obténta dies festus quotánnis celebrándus concederétur. Dénique vovet « se sério cum univérsis ordínibus ratiónes omnes initúrum, ut gravamínibus iniústis et oppressiónibus pópulus regni sui eximátur ». Tunc magis magísque María Virgo sub nómine Regínæ Polóniæ celebrári cœpta est.
+
+[Responsory5]
+R. Coróna áurea super caput eius,
+* Expréssa signo sanctitátis, glória honóris et opus fortitúdinis, allelúia.
+V. Quoniam prævenísti eam in benedictiónibus dulcédinis, posuísti in cápite eius corónam de lápide pretióso.
+R. Expréssa signo sanctitátis, glória honóris et opus fortitúdinis, allelúia.
+
+[Lectio6]
+Labéntibus annis, regnum Polóniæ in finítimas gentes tripartítum fuit, sed protectióne cæléstis Regínæ restitúta est Polóniæ libértas. Qua vix recuperáta, hostis nóminis Christiáni fere ad portas Varsáviæ appáruit. Quo in gravi perículo únicum refúgium éxstitit María Virgo, quæ in ipso suæ Assumptiónis die victóriam armis Polónis impetrávit. Quaprópter epíscopi, vota olim a Ioánne Casimíro rege emíssa exsequéntes, Pium Papam undécimum, qui apud Polónos núntius in illa rerum trepidatióne ánimos sua firmáverat præséntia, rogárunt, ut festum beátæ Vírginis Maríæ Regínæ Polóniæ iam in alíquibus diœcésibus celebrátum ad univérsam Polóniam extenderétur. Anno salútis millésimo nongentésimo quadragésimo sexto in ómnibus ecclésiis parœciálibus, cathedrálibus et dénique ore plusquam míllies míllium peregrinórum Czenstochóviæ apud Clarum Montem, gens Polonórum sese devóvit Immaculáto Cordi beatíssimæ Vírginis. Decem post annos símili modo renováta sunt vota Ioánnis Casimíri. Quibus ómnibus permótus Ioánnes Papa vigésimus tértius, beátam Maríam Vírginem sub título Regínæ Polóniæ, una cum sanctis Epíscopis ac Martýribus Wojtécho Adalbérto et Stanisláo, principálem Polóniæ Patrónam declarávit atque constítuit.
+
+[Responsory6]
+R. Ornátam monílibus fíliam Ierúsalem Dóminus concupívit:
+* Et vidéntes eam fíliæ Sion, beatíssimam prædicavérunt, dicéntes: * Unguéntum effúsum nomen tuum, allelúia.
+V. Astitit regína a dextris tuis in vestítu deauráto, circúmdata varietáte.
+R. Et vidéntes eam fíliæ Sion, beatíssimam prædicavérunt, dicéntes: * Unguéntum effúsum nomen tuum, allelúia.
+&Gloria
+R. Unguéntum effúsum nomen tuum, allelúia.
+
+[Lectio7]
+!Joannes 19:25-27
+In illo témpore: Stabant iuxta crucem Iesu mater eius, et soror matris eius María Cleóphæ, et María Magdaléne. Et réliqua.
+_
+Homilía sancti Bernardíni Senénsis
+!Sermo 5 de Passione Domini, pars 2, art. 1, cap. 3
+Pulsántur admiratióne ómnium legéntium sive audiéntium mentes, scílicet quo motu, quo sensu, qua possibilitáte, qua vera auctoritáte ista dicúntur, quod discípulus tránseat in fílium Vírginis, et Virgo hábeat purum hóminem fílium, quem non génuit; sic nec quod sit fílius ex Vírgine, qui de corrúptis paréntibus natus erat ex sémine. Impossibília quidem vidéntur hæc, sed nihil impossíbile apud Deum. Pietáte quidem et oratióne opus est ad ingrediéndum tale mystérium. Múlier enim beáta Virgo vocátur a Christo, quam numquam appellávit ex vócibus matrem. Múlier, et non múlier; sed super ángelos, et hómines, et mulíeres superexcédens múlier. Accépit a Fílio, quem cum ætérno Patre únicum possidébat, fílium præter ventrem, quem ante in carne habébat ipsa nepótem.
+
+[Responsory7]
+R. Súmite psaltérium iucúndum in insígni die solemnitátis vestræ:
+* Et exsultáte Vírgini adiutríci nostræ, allelúia.
+V. Cantate ei cánticum novum: Annuntiáte inter gentes glóriam eius.
+R. Et exsultáte Vírgini adiutríci nostræ, allelúia.
+
+[Lectio8]
+Sed in quo filiatiónis génere Ioánnes Vírginis factus est fílius, aut eius mater facta est Virgo? Non hoc natúra favet, non concéptus, non partus exséquitur, non ingréssus in úterum ut dénuo nascerétur, non adóptio pro hereditáte in temporálibus consequénda, nec ex imitatióne, aut ex proláta doctrína. Nec ista disserénda erant verbo Christi: nec facta est locútio ut sit quasi, sed sic a Christo légimus dictum: Múlier, ecce fílius tuus; ut, exclúsa omni superfluitáte verbórum, secrétum mystérii penetrémus. Mýstice ígitur intellégimus in Ioánne omnes ánimas electórum, quorum per dilectiónem beáta Virgo facta est mater; fílius enim in græco nomen amóris est. Omnis enim Christi amor in amórem Vírginis transit, ut mérito fílius, id est, amor Vírginis nuncupétur, magísque Vírginem hábeat matrem, quam illam, quæ illum ex peccáto damnátum mundo, suscépto sémine generávit.
+
+[Responsory8]
+R. Signum magnum appáruit in cælo:
+* Múlier amícta sole, et luna sub pédibus eius, et in cápite eius coróna stellárum duódecim, allelúia.
+V. Cuius Fílius regnat in ætérnum.
+R. Múlier amícta sole, et luna sub pédibus eius, et in cápite eius coróna stellárum duódecim, allelúia.
+&Gloria
+R. Múlier amícta sole, et luna sub pédibus eius, et in cápite eius coróna stellárum duódecim, allelúia.
+
+[Lectio9]
+Mutátur hæc matérnitas et filiátio ex auctoritáte verbórum Christi in cruce pendéntis. Proptérea natúra transit in grátiam, et grátia nobílitat profécto natúram; non quod una in álteram commutétur, sed quia natúra ex grátia perfícitur. Mala múlier Heva corruptióne natúræ; bona múlier María, mater grátiæ, mater misericórdiæ. Datur mater grátiæ pro matre natúræ; manet tamen mater natúra, manet etiam mater ex grátia. Erat enim Ioánni mater María Salóme in órdine succedéntis natúræ; est etiam sibi mater beáta Virgo in órdine grátiæ. Est mater Heva cunctórum per tráducem natúræ; est et Virgo María ómnium amántium Christum per infusiónem invisíbilis grátiæ.
+&teDeum
+
+[Ant Laudes]
+@:Ant Vespera
+
+[Capitulum Laudes]
+@:Capitulum Vespera
+
+[Hymnus Laudes]
+v. O gloriósa Vírginum,
+Regína formosíssima,
+Tuis dicátum láudibus,
+Hymni tribútum súscipe.
+_
+Tuas reférre grátias
+Haud ulla lingua desinat:
+Nostram tuéndo pátriam,
+Mater vocáris óptima.
+_
+Hanc prótegens ab hóstibus,
+Regni salus edíceris:
+Sat hoc triúmpho clárior
+Sceptrum Polónum póssides.
+_
+Gens ob vetústa crímina
+Diro iugo dum súbditur,
+Præstas eándem líberam,
+Tot damna regni sárciens.
+_
+Pacem perénnem cívibus,
+Regína pacis, ímpetra:
+Avérte lites, prœlia,
+Dona iuvámen ómnibus.
+_
+@Psalterium/Doxology:Nat
+
+[Versum 2]
+V. Mater Dei ipsa nos iuvat, allelúia.
+R. Et nos servi eius sumus, allelúia.
+
+[Ant 2]
+Quæ est ista, * quæ ascéndit sicut auróra consúrgens, pulchra ut luna, elécta ut sol, terríbilis ut castrórum ácies ordináta? allelúia.
+
+[Capitulum Tertia]
+@:Capitulum Vespera
+
+[Responsory Tertia]
+@Commune/C11::1-6
+@:Ant Matutinum::9
+@:Ant Matutinum::10
+
+[Capitulum Sexta]
+!Judith 13:23
+v. Benedícta es tu, fília, a Dómino Deo excélso, præ ómnibus muliéribus super terram.
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Glória et honore coronásti eam, Dómine, * Allelúia, allelúia.
+R. Glória et honore coronásti eam, Dómine, * Allelúia, allelúia.
+V. Et constituísti eam super ópera mánuum tuárum.
+R. Allelúia, allelúia.
+&Gloria
+R. Glória et honore coronásti eam, Dómine, * Allelúia, allelúia.
+_
+@:Ant Matutinum:14-15
+
+[Capitulum Nona]
+!Judith 13:23-24
+v. Benedíctus Dóminus, qui creávit cælum et terram, quia hódie nomen tuum ita magnificávit, ut non recédat laus tua de ore hóminum.
+$Deo gratias
+
+[Responsory Nona]
+R.br. Magna est glória ejus in salutári tuo, * Allelúia, allelúia.
+R. Magna est glória ejus in salutári tuo, * Allelúia, allelúia.
+V. Glóriam et magnum decórem impónes super eum.
+R. Allelúia, allelúia.
+&Gloria
+R. Magna est glória ejus in salutári tuo, * Allelúia, allelúia.
+_
+@:Versum 2
+
+[Ant 3]
+Ad te, o sancta Dei Génetrix, * clamávimus, et per te venit Dómini auxílium nobis, allelúia.
+
+[Versum 3]
+@:Versum 1

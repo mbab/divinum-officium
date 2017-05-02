@@ -1,0 +1,147 @@
+[Rank]
+Najświętszej Marji Panny, Królowej Polski;;Duplex II classis;;5.1;;ex C11
+
+[Rank1960]
+Najświętszej Marji Panny, Królowej Polski;;Duplex I classis;;6;;ex C11
+
+[Rule]
+9 lectiones 1960
+
+[Ant Vespera]
+Błogosławionaś Ty, Panno Marjo, od Pana Boga wysokiego, nade wszystkie niewiasty na ziemi, alleluja.
+Opasaniem swojetn umocnił nas, i moc swoją dał w ręce nasze, alleluja.
+Tyś sława Jeruzalem, Tyś wesele Izraelskie, Tyś cześć ludu naszego, alleluja.
+Sprawiedliwość jest otoczeniem biódr jego, a wierność pasem nerek jego, alleluja.
+Jakożeś piękna i jako wdzięczna w słodkościach swoich, święta Boża Rodzicielko, alleluja.
+
+[Capitulum Vespera]
+!Jdt 13:22
+v. Ubłogosławił cię Pan w mocy swojej, iż przez cię wniwecz obrócił nieprzyjacioły nasze.
+$Deo gratias
+
+[Hymnus Vespera]
+v. Kiedy niebo wspomina twe triumfy,
+Niechaj raduje się ziemia,śpiewa hymn,
+O Matko Jezusa, błogosławiona Dziewico,
+Niepokalana.
+_
+Jak bardzo przystoi głosić twą chwałę!
+Słusznie szczęśliwy naród polski
+Nazywa Cię Królową; daje dowody
+Najwyższej miłości.
+_
+Gdy złamany nieszczęściami wylewa łzy,
+Podwaja gorliwie ślubowania i modlitwy,
+Ty potężna kruszysz bezecną złość,
+Odwracasz pociski.
+_
+Gwiazdo jaśniejąca wśród burzy morskiej,
+Wieżo wstrzymująca wrogie hufce,
+Poszczególnych obywateli, Tobie oddanych,
+Ochraniaj nadal.
+_
+Laus sit excélsæ Tríadi perénnis,
+Quæ tibi, Virgo, tríbuit corónam
+Atque regínam statuítque nostram
+Próvida matrem.
+Amen.
+
+[Versum 1]
+V. Królowo Polski, wstawiaj się za nami, alleluja.
+R. Abyśmy się stali godnymi obietnic Chrystusowych, alleluja.
+
+[Ant 1]
+Oto Marja * była nadzieją naszą, do której uciekaliśmy się w potrzebie, aby uwolniła nas i pospieszyła nam z pomocą, alleluja.
+
+[Oratio]
+v. Wszechmogący, wieczny Boże, który dla obrony narodu naszego w Najświętszej Marji Pannie cudowną nam pomoc ustanowiłeś: spraw łaskawie, abyśmy taką mocą uzbrojeni walcząc w ciągu życia, zasłużyli na to, aby odnieść zwycięstwo nad złośliwym nieprzyjacielem w chwili śmierci.
+$Per Dominum
+
+[Hymnus Matutinum]
+v. Ciebie Odkupiciela i Pana naszego
+Zwiemy Matką, prześliczna Dziewico,
+Chrześcijan chlubo i wspomożenie
+W sprawach przykrych.
+_
+Chociaż srożą się bramy piekieł,
+Wróg odwieczny wyje
+I groźne wszczyna gniewy, by zniszczyć zastęp
+Poświęcony Bogu.
+_
+Nic nie mogą szkodzić straszliwe żądze
+Sercom czystym, które Dziewica na wezwanie,
+Przychylając się modlitwom, wspomaga i wspiera
+Mocą niebieską.
+_
+Gdy tak można sprzyja nam Patronka,
+Ustępuje wrzawa wojennej zbrodni,
+Tysiączne padają lub uciekają hufce,
+Tysiączne zastępy.
+_
+Laus sit excélsæ Tríadi perénnis,
+Quæ tibi, Virgo, tríbuit corónam
+Atque regínam statuítque nostram
+Próvida matrem.
+Amen.
+
+[Lectio7]
+!J 19:25-27
+Onego czasu: Pod krzyżem Jezusowym stała Matka Jego i siostra Matki Jego, Maria Kleofasowa, oraz Maria Magdalena. I tak dalej.
+_
+Homilia świętego Bernardyna ze Sieny
+!Kazanie 5. o Męce Pańskiej, część 2., art. 1., rozdz. 3.
+Zdumienie ogarnia umysły wszystkich, którzy to słyszą albo czytają. A mianowicie: z jakiego powodu, w jakim znaczeniu, z jaką mocą sprawczą, z jaką rzeczywistą powagą wypowiadane są te słowa, przez które uczeń staje się Synem Maryi Panny, a Najświętsza Dziewica otrzymuje za syna zwykłego człowieka, którego nie zrodziła. Nie mógł być przecież Jej synem ten, który się począł i urodził ze skażonych grzechem rodziców. Wprawdzie wydaje się to niemożliwe, ale u Boga nie ma nic niemożliwego. Zaiste, trzeba pobożności i modlitwy, aby przeniknąć tak wielką tajemnicę. A zatem Chrystus nazywa Najświętszą Maryję Pannę niewiastą, On, który nigdy nie określił Jej mianem Matki. Jest Ona niewiastą i nią nie jest, gdyż przewyższa wszystkie niewiasty i rodzaj ludzki, i Aniołów. Od swego Syna, będącego dla Niej i dla Ojca Przedwiecznego Synem jedynym, otrzymała syna spoza łona, tego, który był przedtem według ciała jej siostrzeńcem.
+
+[Responsory7]
+R. Uderzcie w cytrę słodko brzęczącą w chwalebnym dniu uroczystości waszej;
+* Radośnie śpiewajcie Dziewicy, która jest naszą pomocą, alleluja.
+V. Śpiewajcie Jej pieśń nową, głoście Jej chwałę pośród narodów.
+R. Radośnie śpiewajcie Dziewicy, która jest naszą pomocą, alleluja.
+
+[Lectio8]
+Jaki rodzaj synostwa to sprawił, że Jan stał się synem Najświętszej Dziewicy, albo jak Dziewica została jego matką? Nie pozwala na to natura, nie sprawia tego poczęcie ani narodzenie; nie chodzi tu wejście do łona matki, aby się znów narodzić; nie dotyczy to usynowienia, dzięki któremu otrzymuje się doczesne dziedzictwo; nie dzieje się tak ani przez naśladowanie Pana Jezusa, ani przez głoszenie Jego nauki. Nie, nic takiego nie wynika ze słów Chrystusa. Ponadto Jan nie został tylko porównany do syna, ale czytamy, że Chrystus powiedział dokładnie tak: Niewiasto, oto syn Twój. Powstrzymał się od nadmiaru słów, abyśmy zgłębili istotę tajemnicy. Patrząc zatem na sposób mistyczny, rozpoznajemy w Janie wszystkie dusze wybranych, którzy dzięki macierzyńskiej miłości Maryi otrzymali Ją za Matkę. Albowiem po grecku „fílius” , czyli ‘syn’, jest nazwą miłości („philía”). Tak więc cała miłość Chrystusa przemieniła się w miłość Najświętszej Dziewicy, aby Jan mógł się słusznie zwać synem, czyli miłością Maryi Panny, i bardziej mógł mieć za matkę Najświętszą Dziewicę, niż tę, która go wydała na świat w stanie potępienia spowodowanego odziedziczonym grzechem pierworodnym.
+
+[Responsory8]
+R. Ukazał się znak wielki na niebie:
+* Niewiasta obleczona w słońce i księżyc u Jej stóp, a na głowie Jej korona z gwiazd dwunastu, alleluja.
+V. Jej Syn króluje na wieki.
+R. Niewiasta obleczona w słońce i księżyc u Jej stóp, a na głowie Jej korona z gwiazd dwunastu, alleluja.
+&Gloria
+R. Niewiasta obleczona w słońce i księżyc u Jej stóp, a na głowie Jej korona z gwiazd dwunastu, alleluja.
+
+[Lectio9]
+Na mocy słów Chrystusa wiszącego na krzyżu przemienia się dotychczasowe macierzyństwo i synostwo. Toteż natura zbliża się ku łasce, a łaska niewątpliwie uszlachetnia naturę. Nie jest tak, iżby jedna przekształcała się w drugą, lecz łaska udoskonala naturę. Ewa stała się złą niewiastą, skaziwszy naturę; Maryja jest dobrą niewiastą, Matką łaski, Matką miłosierdzia. Darowana jest więc Matka według łaski, jakby to była matka rodzona; jednak matka z natury wciąż pozostaje obok matki otrzymanej dzięki łasce. Albowiem matką Jana była Maria Salome, stosownie do przekazanej natury ludzkiej, ale jego matką jest również Najświętsza Maryja Panna zgodnie z porządkiem łaski Bożej. Ewa jest matką wszystkich za pośrednictwem natury, Maryja Panna jest matką wszystkich miłujących Chrystusa dzięki wlaniu niewidzialnej łaski.
+&teDeum
+
+[Ant 2]
+Któraż to jest, * która idzie jako zorza powstająca, piękna jako księżyc, wybrana jako słonce, ogromna jako wojska uszykowane porządnie? alleluja.
+
+[Capitulum Sexta]
+!Jdt 13:23
+v. Błogosławionaś ty, córko, od Pana Boga wysokiego nade wszytkie niewiasty na ziemi!
+$Deo gratias
+
+[Responsory Sexta]
+R.br. Chwałą i czcią ukoronowałeś ją, Panie, * Alleluja, alleluja.
+R. Chwałą i czcią ukoronowałeś ją, Panie, * Alleluja, alleluja.
+V. I postanowiłeś go nad dziełami rąk Twoich.
+R. Alleluja, alleluja.
+&Gloria
+R. Chwałą i czcią ukoronowałeś ją, Panie, * Alleluja, alleluja.
+_
+@:Ant Matutinum:14-15
+
+[Capitulum Nona]
+!Judith 13:23-24
+v. Błogosławiony Pan, który stworzył niebo i ziemię, który cię obrócił na rany głowy hetmana nieprzyjaciół naszych.
+$Deo gratias
+
+[Responsory Nona]
+R.br. Wielka jest chwała jej w zbawieniu twojem, * Alleluja, alleluja.
+R. Wielka jest chwała jej w zbawieniu twojem, * Alleluja, alleluja.
+V. Sławę i wielką ozdobę nań włożysz.
+R. Alleluja, alleluja.
+&Gloria
+R. Wielka jest chwała jej w zbawieniu twojem, * Alleluja, alleluja.
+_
+@:Versum 2
