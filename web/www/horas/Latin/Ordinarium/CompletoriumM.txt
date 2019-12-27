@@ -37,7 +37,7 @@ Et nóctium phantásmata
 Hostémque nóstrum cómprime
 Ne polluántur córpora
 _
-Præsta Pater omnípotens
+* Præsta Pater omnípotens
 Per Iesum Christum Dóminum
 Qui tecum in perpétuum
 Regnat cum Sancto Spíritu
@@ -66,5 +66,6 @@ $Per Dominum
 Benedictio. Benedícat et custódiat nos omnípotens et miséricors Dóminus, + Pater, et Fílius, et Spíritus Sanctus.
 R. Amen.
 _
+&antiphona_finalis
 V. Divínum auxílium + máneat semper nobíscum.
 R. Et cum frátribus nostris abséntibus. Amen.

@@ -1,4 +1,8 @@
 #Incipit
+$Deus in adjutorium
+&Gloria
+&Alleluia
+
 &psalm(66)
 
 #Psalmi
@@ -11,7 +15,7 @@
 &Gloria
 &ant_Benedictus(2)
 _
-v. Kırie eléison. Christe, eléison. Kırie, eléison.
+v. KÃ½rie elÃ©ison. Christe, elÃ©ison. KÃ½rie, elÃ©ison.
 &pater_noster
 
 #Oratio
@@ -20,9 +24,8 @@ v. Kırie eléison. Christe, eléison. Kırie, eléison.
 &Dominus_vobiscum
 &Benedicamus_Domino
 $Fidelium animae
-$Pater noster
-V. Dóminus det nobis suam pacem.
-R. Et vitam ætérnam. Amen.
+V. DÃ³minus det nobis suam pacem.
+R. Et vitam Ã¦tÃ©rnam. Amen.
 _
-V. Divínum auxílium + máneat semper nobíscum.
-R. Et cum frátribus nostris abséntibus. Amen.
+V. DivÃ­num auxÃ­lium + mÃ¡neat semper nobÃ­scum.
+R. Et cum frÃ¡tribus nostris absÃ©ntibus. Amen.
