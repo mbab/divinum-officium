@@ -66,5 +66,6 @@ $Per Dominum
 Benedictio. Áldjon meg és őrizzen minket a mindenható és irgalmas Úr, + az Atya, a Fiú és a Szentlélek.
 R. Ámen.
 _
+&antiphona_finalis
 V. Az Isten áldása + maradjon mindig velünk.
 R. És távollévő testvéreinkkel. Ámen.

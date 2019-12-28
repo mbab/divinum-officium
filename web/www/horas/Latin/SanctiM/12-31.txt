@@ -1,10 +1,12 @@
 [Rank]
-Die septima post Nativitatem Domini;;Feria;;1
+Die VII infram Octavam Nativitatem Domini;;Duplex II class;;5.2;;ex Sancti/12-25
 
 [Rule]
+CPapaC=Silvéstrum;
 
-[Oratio]
-@SanctiM/12-29
+[Commemoratio 2]
+!Commemoratio Sancti Silvestri Papæ
+@Commune/C4:Oratio Gregem
 
 [Lectio1]
 @Sancti/12-31

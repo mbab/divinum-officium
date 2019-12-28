@@ -65,5 +65,6 @@ $Per Dominum
 &Benedicamus_Domino
 Bendición. Bendíganos y guárdenos el omnipotente y misericordioso Señor, + Padre, Hijo y Espíritu Santo.
 _
+&antiphona_finalis
 V. El auxilio divino + permanezca siempre con nosotros.
 R. Y con nuestros hermanos ausentes. Amén.

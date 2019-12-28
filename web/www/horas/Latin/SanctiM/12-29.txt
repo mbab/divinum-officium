@@ -1,12 +1,7 @@
 [Rank]
-Die quinta post Nativitatem Domini;;Feria;;1
+Die V infram Octavam Nativitatem Domini;;Duplex II class;;5.2;;ex Sancti/12-25
 
 [Rule]
-
-[Oratio]
-Omnipotens sempiterne Deus, dirige actus nostros in beneplacito tuo: ut in~
-nomine dilecti Filii tui mereamur bonis operibus abundare
-$Qui tecum
 
 [Lectio1]
 @Sancti/12-29

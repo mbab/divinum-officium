@@ -1,4 +1,8 @@
 #Incipit
+$Deus in adjutorium
+&Gloria
+&Alleluia
+
 &psalm(66)
 
 #Psalmi
