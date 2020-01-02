@@ -107,13 +107,13 @@ if ($officium =~ /brevi/) {
 } else {
   $version = strictparam('version');
   @versions = (
-    'Monastic',
     'Tridentine 1570',
     'Tridentine 1910',
     'Divino Afflatu',
     'Reduced 1955',
     'Rubrics 1960',
-    '1960 Newcalendar'
+    '1960 Newcalendar',
+    'Monastic 1963'
   );
 }
 if (!$version) { $version = ($version1) ? $version1 : 'Rubrics 1960'; }

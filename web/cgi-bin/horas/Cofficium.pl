@@ -39,8 +39,7 @@ our $version1 = 'Divino Afflatu';
 our $version2 = 'Rubrics 1960';
 our $version = '';
 
-@versions = ('Tridentine 1570', 'Tridentine 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960 Newcalendar');
-if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic'); }
+@versions = ('Tridentine 1570', 'Tridentine 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960 Newcalendar', 'Monastic 1963');
 
 #***common variables arrays and hashes
 #filled  getweek()

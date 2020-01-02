@@ -33,7 +33,7 @@ our $Ck = 0;
 our $officium = 'Pofficium.pl';
 our $version = 'Rubrics 1960';
 
-@versions = ('Tridentine 1570', 'Tridentine 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960 Newcalendar');
+@versions = ('Tridentine 1570', 'Tridentine 1910', 'Divino Afflatu', 'Reduced 1955', 'Rubrics 1960', '1960 Newcalendar', 'Monastici 1963');
 
 #***common variables arrays and hashes
 #filled  getweek()
@@ -303,7 +303,6 @@ PrintTag
 PrintTag
   }
   @chv = splice(@chv, @chv);
-  if (-e "$Bin/monastic.pl") { unshift(@versions, 'Monastic'); }
   for ($i = 0; $i < @versions; $i++) { $chv[$i] = $version =~ /$versions[$i]/ ? 'red' : 'blue'; }
   my $vsize = @versions;
   print "<TABLE ALIGN=CENTER BORDER=1><TR><TD ALIGN=CENTER>\n";
