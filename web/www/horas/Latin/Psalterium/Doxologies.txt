@@ -5,12 +5,26 @@ Cum Patre et almo Spíritu,
 In sempitérna sǽcula.
 Amen. 	
 
+[NatM]
+Glória tibi, Dómine,
+Qui natus es de Vírgine,
+Cum Patre, et Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
+
 [Epi]
 Jesu, tibi sit glória,
 Qui apparuísti Géntibus,
 Cum Patre et almo Spíritu,
 In sempitérna sǽcula.
 Amen. 	
+
+[EpiM]
+Glória tibi, Dómine,
+Qui apparuísti hódie,
+Cum Patre, et Sancto Spíritu,
+In sempitérna sǽcula.
+Amen.
 
 [Pasc]
 Deo Patri sit glória,

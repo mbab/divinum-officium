@@ -2027,8 +2027,9 @@ sub doxology {
   }
 
   if ($dname) {
-    if ($dname =~ /Asc/ && $version =~ /1570/) { $dname .= 'T'; }
     my %w = %{setupstring($datafolder, $lang, 'Psalterium/Doxologies.txt')};
+    if ($dname =~ /Asc/ && $version =~ /1570/) { $dname .= 'T'; }
+    if ($version =~ /monastic/i && $w{"${dname}M"}) { $dname .= 'M'; }
     $dox = $w{$dname};
     setbuild2("Doxology: $dname");
   }
