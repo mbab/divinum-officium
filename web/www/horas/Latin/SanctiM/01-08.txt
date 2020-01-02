@@ -1,10 +1,7 @@
 [Rank]
-Die Octava Januarii;;Feria;;1;;
+Die Octava Januarii;;Feria;;1;;vide Sancti/01-06
 
 [Rule]
-
-[Oratio]
-@SanctiM/01-06:Oratio
 
 [Lectio1]
 !Rom 12:1-3
@@ -23,7 +20,7 @@ Die Octava Januarii;;Feria;;1;;
 7 sive ministerium in ministrando, sive qui docet in doctrina,
 8 qui exhortatur in exhortando, qui tribuit in simplicitate, qui praeest in sollicitudine, qui miseretur in hilaritate.
 
-[Responsory5]
+[Responsory2]
 @SanctiM/01-06:Responsory5
 
 [Lectio3]
@@ -39,3 +36,9 @@ Die Octava Januarii;;Feria;;1;;
 
 [Responsory3]
 @SanctiM/01-06:Responsory6
+
+[Ant 2]
+@Sancti/01-08
+
+[Ant 3]
+@Sancti/01-08

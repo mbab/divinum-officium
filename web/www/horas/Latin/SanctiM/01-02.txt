@@ -1,10 +1,7 @@
 [Rank]
-Die secunda Januarii;;Feria;;1.1;;
+Die secunda Januarii;;Feria;;1.1;;vide Sancti/01-01
 
 [Rule]
-
-[Oratio]
-@Tempora/Nat2-0:Oratio
 
 [Lectio1]
 @Sancti/01-02:Lectio1
@@ -23,3 +20,12 @@ Die secunda Januarii;;Feria;;1.1;;
 
 [Responsory3]
 @SanctiM/01-01:Responsory3
+
+[Responsory Tertia]
+@SanctiM/12-25
+
+[Responsory Sexta]
+@SanctiM/12-25
+
+[Responsory Nona]
+@SanctiM/12-25

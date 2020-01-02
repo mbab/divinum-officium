@@ -1,10 +1,7 @@
 [Rank]
-Die Quarta Januarii;;Feria;;1.1;;
+Die Quarta Januarii;;Feria;;1.1;;vide Sancti/01-01
 
 [Rule]
-
-[Oratio]
-@SanctiM/01-02:Oratio
 
 [Lectio1]
 De Epistola ad Romanos.
@@ -32,3 +29,19 @@ De Epistola ad Romanos.
 
 [Responsory3]
 @SanctiM/01-01:Responsory9
+
+[Commemoratio 2]
+!Commemoratio S. Titi Episcopi et Confessoris
+@Commune/C4:Oratio proper
+$Oremus
+Deus, qui beátum Titum Confessórem tuum atque Pontíficem apostólicis virtútibus decorásti: ejus méritis et intercessióne concéde; ut juste et pie vivéntes in hoc sǽculo, ad cæléstem pátriam perveníre mereámur.
+$Per Dominum
+
+[Responsory Tertia]
+@SanctiM/12-25
+
+[Responsory Sexta]
+@SanctiM/12-25
+
+[Responsory Nona]
+@SanctiM/12-25
