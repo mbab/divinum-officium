@@ -692,7 +692,6 @@ sub psalmi_minor {
       if ($dayofweek > 0) { $i++; }
       if ($dayofweek > 1) { $i++; }
     }
-    if ($hora =~ /prima/i && $winner =~ /Sancti/i && $rank >= 4) { $i = 7; }
     $psalmi[$i] =~ s/\=/\;\;/;
     my @a = split(';;', $psalmi[$i]);
     $ant = chompd($a[1]);
