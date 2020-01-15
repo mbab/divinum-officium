@@ -187,7 +187,7 @@ sub getrank {
   our %transfer = {};
   our $hymncontract = 0;
   my $kalendarname =
-      ($version =~ /Monastic/i) ? 'M'
+      ($version =~ /Monastic/i) ? '1963'
     : ($version =~ /1570/) ? 1570
     : ($version =~ /Trident/i) ? 1888
     : ($version =~ /newcal/i) ? 'NC'
@@ -403,7 +403,7 @@ sub getrank {
     $srank[2] = 1.5;
   }    #1955: semiduplex reduced to simplex
 
-  if ( $version =~ /1960/
+  if ( $version =~ /196/
     && $srank[2] < 2
     && $srank[1] =~ /Simplex/i
     && $testmode =~ /seasonal/i
@@ -643,7 +643,7 @@ sub getrank {
   # Dispose of some cases in which the office can't be sanctoral:
   # if we have no sanctoral office, or it was reduced to a
   # commemoration by Cum nostra.
-  if (!$srank[2] || ($version =~ /(1955|1960|Newcal)/ && $srank[2] <= 1.1)) {
+  if (!$srank[2] || ($version =~ /(1955|196|Newcal)/ && $srank[2] <= 1.1)) {
 
     # Office is temporal; flag is correct.
   }
@@ -1514,7 +1514,7 @@ sub transfered {
 sub climit1960 {
   my $c = shift;
   if (!$c) { return 0; }
-  if ($version !~ /1960/ || $c !~ /sancti/i) { return 1; }
+  if ($version !~ /196/ || $c !~ /sancti/i) { return 1; }
 
   # Subsume commemoration in special case 7-16 with Common 10 (BVM in Sabbato)
   return 0 if $c =~ /7-16/ && $winner =~ /C10/;
@@ -1564,8 +1564,8 @@ sub setheadline {
         'I. classis',
         'I. classis'
       );
-      $rankname = ($version !~ /1960/) ? $tradtable[$rank] : $newtable[$rank];
-      if ($version =~ /(Divino|1955|1960|Newcal)/ && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
+      $rankname = ($version !~ /196/) ? $tradtable[$rank] : $newtable[$rank];
+      if ($version =~ /(Divino|1955|196|Newcal)/ && $dayname[1] =~ /feria/i) { $rankname = 'Feria'; }
 
       if ($name =~ /Dominica/i && $version !~ /1960/) {
         my $a = ($dayofweek == 6 && $hora =~ /(Vespera|Completorium)/i) ? getweek(1) : getweek(0);
