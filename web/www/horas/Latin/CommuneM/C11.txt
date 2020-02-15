@@ -26,41 +26,7 @@ R. Dominus tecum.
 R. Ave Maria, gratia plena, * Dominus tecum.
 
 [Hymnus Vespera]
-{:H-Avemaris:}v. Ave maris stella,
-Dei Mater alma,
-Atque semper Virgo,
-Felix caeli porta.
-_
-Sumens illud Ave
-Gabrielis ore,
-Funda nos in pace,
-Mutans Hevae nomen.
-_
-Solve vincla reis,
-Profer lumen caecis,
-Mala nostra pelle,
-Bona cuncta posce.
-_
-Monstra te esse matrem,
-Sumat per te preces,
-Qui pro nobis natus,
-Tulit esse tuus.
-_
-Virgo singularis,
-Inter omnes mitis,
-Nos culpis solutos
-Mites fac et castos.
-_
-Vitam praesta puram,
-Iter para tutum,
-Ut videntes Jesum,
-Semper collaetemur.
-_
-Sit laus Deo Patri,
-Summo Christo decus,
-Spiritui sancto,
-Tribus honor unus.
-Amen.
+@Commune/C10:Hymnus Vespera
 
 [Versum 1]
 V. Dignare me laudare te, Virgo sacrata.
@@ -319,26 +285,7 @@ R. Dominus tecum.
 R. Ave Maria, gratia plena, * Dominus tecum.
 
 [Hymnus Laudes]
-{:H-Ogloriosavirginum:}v. O gloriosa virginum,
-Sublimis inter sidera,
-Qui te creavit, parvulum
-Lactente nutris ubere.
-_
-Quod Heva tristis abstulit,
-Tu reddis almo germine:
-Intrent ut astra flebiles,
-Caeli recludis cardines.
-_
-Tu regis alti janua,
-Et aula lucis fulgida:
-Vitam datam per Virginem
-Gentes redemptae plaudite.
-_
-Jesu, tibi sit gloria,
-Qui natus es de Virgine,
-Cum Patre, et almo Spiritu
-In sempiterna saecula. 
-Amen.
+@Commune/C10::s/vírginum/Dómina/ s/Sublímis/Excélsa/ s/párvulum/próvide/ s/nutris/sacro/ s/reclúdis cárdines/fenéstra facta es./ s/aula/porta/
 
 [Versum 2]
 V. Diffusa est gratia in labiis tuis.
