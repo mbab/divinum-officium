@@ -1,0 +1,7 @@
+@SanctiM/07-11
+
+[Rank]
+Translatio S.P.N. Benedicti Abbatis Europæ Patroni;;I class;;7;;vide C5
+
+[Oratio]
+@SanctiM/07-11::s/Solemnitátem/Translatiónem/
