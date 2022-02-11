@@ -1,0 +1,38 @@
+@Sancti/02-11
+
+[Commemoratio 2]
+!Commemoratio S. Gregorii II Papæ et Confessoris
+@Commune/C4:Oratio proper
+$Oremus
+Deus, qui beátum Gregórium Confessórem tuum atque Pontíficem, fidei defenórem et apostólicæ sapiéntiæ ac firmitátis exémplum in Ecclésiæ tua constituísti: * largíre nobis quǽsumus; ut ómnia advérsa pro nóminis tui glória húmili corde sustinéntes æternitátis glóriam consequámur.
+$Per Dominum
+
+[Capitulum Laudes]
+@Sancti/02-11
+_
+@CommuneM/C10:Capitulum Vespera:s/.*_//s
+
+[Hymnus Laudes]
+@Sancti/02-11::1-25
+@Psalterium/Doxologies:NatT
+
+[Versum 2]
+@Sancti/12-08:Responsory Nona:s/.*_.//s
+
+[Responsory Tertia]
+@Sancti/02-11::s/.*_\n//s
+
+[Responsory Sexta]
+@Sancti/02-11::s/.*_\n//s
+
+[Responsory Nona]
+@Sancti/02-11::s/.*_/\n/s
+
+[Capitulum Vespera]
+@:Capitulum Laudes
+
+[Hymnus Vespera 3]
+@Sancti/02-11::s/Sit decus/Glória/ s/semper/alme/ s/virtus/semper/ s/ævo/sæcli/
+
+[Versum 3]
+@:Versum 2

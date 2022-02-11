@@ -1,0 +1,169 @@
+@Sancti/07-22
+
+[Rank]
+S. Mariæ Magdalenæ Pœnitentis;;II class Duplex;;5;;ex C7
+
+[Rule]
+12 lectiones
+
+[Capitulum Vespera]
+@:Capitulum Tertia
+_
+@Tempora/Pasc0-4:Responsory1
+&Gloria1
+@Tempora/Pasc0-4:Responsory1:4
+
+[Ant Vespera]
+María ergo * unxit pedes Jesu et extérsit capíllis suis et domus impléta est ex odóre unguénti.;;109
+Quid molésti estis * huic muliéri opus enim bonum operáta est in me.;;112
+Mittens haec múlier * in corpus meum hoc unguéntum ad sepeliéndum me fecit;;121
+Nominabitur * quod fecit múlier ista in generatióne ómnium seculórum;;126
+
+[Versum 1]
+V. Remíssa sunt ei peccáta multa.
+R. Quóniam diléxit multum.
+
+[Ant 1]
+In diébus illis, * múlier quæ erat in civitáte peccátrix, ut cognóvit quod Jesus accúbuit in domo Simónis leprósi, áttulit alabástrum unguénti: et stans retro secus pedes Dómini Jesu, lácrimis cœpit rigáre pedes éjus, et capíllis cápitis sui tergébat: et osculabátur pedes éjus, et unguénto ungébat. 
+
+[Lectio1]
+@Sancti/07-22
+
+[Lectio2]
+@Sancti/07-22::1-3 s/-4/-2/
+
+[Lectio3]
+@Sancti/07-22:Lectio2:1 s/1-4/3-5/
+@Sancti/07-22:Lectio2:4-5
+@Sancti/07-22:Lectio3:2
+
+[Lectio4]
+@Sancti/07-22:Lectio3:1 s/5-/6-/
+@Sancti/07-22:Lectio3:3-4
+
+[Responsory4]
+@Tempora/Pasc0-0:Responsory2:s/, all.*/./g
+
+[Lectio5]
+@Sancti/07-22:Lectio4
+
+[Responsory5]
+@Commune/C6:Responsory4
+
+[Lectio6]
+@Sancti/07-22:Lectio5
+
+[Responsory6]
+@Commune/C6:Responsory5
+
+[Lectio7]
+@Sancti/07-22:Lectio6:s/ Quæréntes.*//
+
+[Responsory7]
+@Commune/C7:Responsory6
+
+[Lectio8]
+@Sancti/07-22:Lectio6:s/.* Quæréntes/Quæréntes/
+
+[Responsory8]
+R. Quam pulchra es, † amíca mea, quam pulchra es et suávis! óculi tui columbárum:
+* Absque eo quod intrínsecus latet. 
+V.  regína a dextris tuis in vestítu deauráto, circúmdata varietáte.
+R. Absque eo quod intrínsecus latet. 
+
+[Lectio9]
+@Sancti/07-22:Lectio7:s/Nóverat.*//
+
+[Responsory9]
+@Commune/C7:Responsory7
+
+[Lectio10]
+@Sancti/07-22:Lectio7:s/.*Nóverat/Nóverat/s s/$/~/
+@Sancti/07-22:Lectio8:s/Quia.*//
+
+[Responsory10]
+@Commune/C7:Responsory8
+
+[Lectio11]
+@Sancti/07-22:Lectio8:s/.* Quia/Quia/
+
+[Responsory11]
+R. Accínxit * fortitúdine lumbos suos, et roborávit bráchium suum;
+* Ideóque lucérna ejus non exstinguétur in sempitérnum.
+V. Adjuvábit eam Deus vultu suo, Deus in médio ejus, non commovébitur.
+R. Ideóque lucérna ejus non exstinguétur in sempitérnum.
+
+[Lectio12]
+@Sancti/07-22:Lectio9
+
+[Responsory12]
+@CommuneM/C7:Responsory9:s/N\./María Magdaléna/
+
+[LectioE]
+@Sancti/07-22
+
+[Ant Laudes]
+@Tempora/Pasc0-4:Ant 2
+@Tempora/Pasc1-4:Ant 2
+@Tempora/Pasc0-4:Ant 3
+@:Ant4 
+@:Ant Nona
+
+[Ant4]
+Dum flerem * ad monuméntum vidi dóminum meum allelúja.
+
+[Versum 2]
+V. Noli fleri María.
+R. Resuréxit Dóminus.
+
+[Ant Nona]
+Venit María * núntians discípulis quia vidi dóminum, allelúja.
+
+[Capitulum Laudes]
+@:Capitulum Tertia
+_
+R.br. Remíssa sunt ei * peccáta multa
+R. Remíssa sunt ei * peccáta multa
+V. Quóniam diléxit multum.
+R. Peccáta multa.
+&Gloria1
+R. Remíssa sunt ei * peccáta multa
+
+[Ant 2]
+@Tempora/Pasc1-1:Ant 2
+
+[Capitulum Tertia]
+!Ct 3:1-2
+v. In léctulo meo per noctes quæsívi quem díligit ánima mea: quæsívi illum, et non invéni. Surgam, et circuíbo civitátem: per vicos et platéas quæram quem díligit ánima mea.
+$Deo gratias
+
+[Responsory Tertia]
+V. Remíssa sunt ei peccáta multa.
+R. Quóniam diléxit multum
+
+[Capitulum Sexta]
+!Ct 3 3-4 
+v. Num quem díligit ánima mea vidístis? Páululum cum pertransíssem eos, invéni quem díligit ánima mea: ténui eum, nec dimíttam.
+$Deo gratias
+
+[Responsory Sexta]
+V. Óptimam partem elégit sibi María.
+R. Quae non auferétur ab ea in aetérnum
+
+[Capitulum Nona]
+!Ct 8 6 
+v. Pone me ut signáculum super cor tuum, ut signáculum super bráchium tuum, quia fortis est ut mors diléctio, dura sicut inférnus æmulátio: lámpades ejus lámpades ignis atque flammárum.
+$Deo gratias
+
+[Ant Vespera 3]
+@Tempora/Pasc0-4:Ant 2
+@Tempora/Pasc1-4:Ant 2:s/$/;;112/
+@Tempora/Pasc0-4:Ant 3:s/$/;;121/
+@:Ant Nona:s/$/;;126/
+
+[Versum 3]
+@:Versum 2
+
+[Ant 3]
+Múlier * quæ erat in civitáte peccátrix, áttulit alabástrum unguénti, et stans retro secus pedes Dómini, lácrimis cœpit rigáre pedes ejus, et capíllis cápitis sui tergébat.
+

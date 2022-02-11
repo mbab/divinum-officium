@@ -1,0 +1,45 @@
+@Sancti/12-12n
+
+[Hymnus Matutinum]
+@Sancti/12-08::s/Jesu, tibi sit glória/Glória tibi Dómine/ s/almo/Sancto/
+
+[Capitulum Laudes]
+@Sancti/02-11:Lectio Prima
+_
+R.br. Quasi arcus refúlgens inter nébulas glóriæ. 
+R. Quasi arcus refúlgens inter nébulas glóriæ. 
+V. Et quasi flos rosárum in diébus vernis.
+R. Inter nébulas glóriæ. 
+&Gloria
+R. Quasi arcus refúlgens inter nébulas glóriæ. 
+
+[Hymnus Laudes]
+@Sancti/08-15
+
+[Capitulum Tertia]
+@Sancti/02-11:Lectio Prima
+$Deo gratias
+
+[Responsory Tertia]
+V. Quasi arcus refúlgens inter nébulas glóriæ. 
+R. Et quasi flos rosárum in diébus vernis.
+
+[Capitulum Sexta]
+@Sancti/10-07
+
+[Capitulum Nona]
+@Sancti/12-08:Lectio Prima
+$Deo gratias
+
+[Ant Laudes]
+Quæ est ista * quæ procéssit sicut sol, et formósa tamquam Jerúsalem?
+Vidérunt eam * fíliæ Sion vernántem in flóribus rosárum, et beatíssimam prædicavérunt.
+@Sancti/02-11::2 s/;.*//
+Laudemus * laudaverunt in terra nostra, et laudamus super Dei Genitrix.
+@Sancti/02-11::1 s/;.*//
+
+[Ant 2]
+@:Ant 1
+
+[Versum 2]
+@Commune/C10

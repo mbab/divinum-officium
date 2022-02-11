@@ -1,0 +1,13 @@
+@Sancti/07-01
+
+[Rank]
+Pretiosissimi Sanguinis Domini Nostri Jesu Christi;;Duplex;;3;;
+
+[Responsory Tertia]
+@Sancti/07-01::8-9
+
+[Responsory Sexta]
+@Sancti/07-01::8-9
+
+[Responsory Nona]
+@Sancti/07-01::8-9

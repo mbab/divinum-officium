@@ -1,0 +1,37 @@
+@Sancti/10-03
+
+[Rank]
+S. Theresiæ a Jesu Infante Virginis;;Duplex;;5;;ex C6
+
+[Rule]
+12 lectiones
+
+[Lectio4]
+@CommuneM/C6
+
+[Lectio5]
+@Sancti/10-03:Lectio4
+
+[Lectio6]
+@Sancti/10-03:Lectio5
+
+[Lectio7]
+@Sancti/10-03:Lectio6:s/Sponsus.*//
+
+[Lectio8]
+@Sancti/10-03:Lectio6:s/.* Sponsus/Sponsus/
+
+[Lectio9]
+@Sancti/10-03:Lectio7
+
+[Lectio10]
+@Sancti/10-03:Lectio8
+
+[Lectio11]
+@Sancti/10-03:Lectio9:s/Amétur.*//
+
+[Lectio12]
+@Sancti/10-03:Lectio9:s/.* Amétur/Amétur/
+
+[LectioE]
+@Sancti/10-03

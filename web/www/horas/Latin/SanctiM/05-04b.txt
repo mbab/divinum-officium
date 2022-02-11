@@ -1,0 +1,11 @@
+@Sancti/05-03r
+
+[Commemoratio 2]
+!Commemoratio S. Monicæ Viduæ
+@Commune/C7a:Oratio proper
+$Oremus
+Deus, mæréntium consolátor et in te sperántium salus, qui beátæ Mónicæ pias~
+lácrimas in conversióne fílii sui Augustíni misericórditer suscepísti: da nobis~
+utriúsque intervéntu; peccáta nostra deploráre, et grátiæ tuæ indulgéntiam~
+inveníre.
+$Per Dominum

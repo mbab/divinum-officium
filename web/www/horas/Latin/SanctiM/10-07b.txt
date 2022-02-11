@@ -1,0 +1,14 @@
+@SanctiM/10-07
+
+[Rank]
+Sanctissimi Rosarii Beatæ Mariæ Virginis;;Duplex;;3;;ex Sancti/10-07
+
+[Rule]
+CPapaC=Marcum;
+
+[Ant Laudes]
+@Sancti/10-07::s/\.$/, allelúja./mg s/[:;]/, allelúja$&/ s/allelúja, allelúja/allelúja/
+
+[Commemoratio 2]
+!Commemoratio S. Marci Papæ
+@Commune/C4:Oratio Gregem

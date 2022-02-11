@@ -1,0 +1,7 @@
+@SanctiM/07-11
+
+[Rank]
+S. P. N. Benedicti Abbatis;;I class;;7;;vide C5
+
+[Oratio]
+@SanctiM/07-11::s/Solemnitátem/Translatiónem/

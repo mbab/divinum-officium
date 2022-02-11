@@ -1,0 +1,88 @@
+@SanctiM/02-05
+
+[Rank]
+S. Agathæ Virginis et Martyris;;Duplex majus;;5;;ex Commune/C6
+
+[Rule]
+12 lectiones
+
+[Lectio1]
+@Commune/C6:Lectio11:1-5 s/-7/-5/
+
+[Responsory1]
+@Sancti/02-05
+
+[Lectio2]
+@Commune/C6:Lectio11:s/.*\n// s/1-7/4-7/ 5-8
+
+[Responsory2]
+@Sancti/02-05
+
+[Lectio3]
+@Commune/C6:Lectio21
+
+[Responsory3]
+@Sancti/02-05
+
+[Lectio4]
+@Commune/C6:Lectio31
+
+[Responsory4]
+R. Gaudeamus † omnes in Domino, diem festum celebrantes sub honore beatæ Agathæ Virginis;
+* De cujus passióne gaudent Angeli, et colláudant Fílium Dei.
+V. Immaculatus Dominus immaculatam sibi famulam in hoc fragili corpore positam misericorditer consecravit.
+R. De cujus passióne gaudent Angeli, et colláudant Fílium Dei.
+
+[Lectio5]
+@Sancti/02-05:Lectio4:s/ Quæ.*//s
+
+[Responsory5]
+@Sancti/02-05:Responsory4
+
+[Lectio6]
+@Sancti/02-05:Lectio4:s/.*tradit. //s
+
+[Responsory6]
+@Sancti/02-05:Responsory5
+
+[Lectio7]
+@Sancti/02-05:Lectio5
+
+[Responsory7]
+@Sancti/02-05:Responsory6
+
+[Lectio8]
+@Sancti/02-05:Lectio6
+
+[Lectio9]
+@Sancti/02-05:Lectio7:s/ Quibus.*//s
+
+[Responsory9]
+@Sancti/02-05:Responsory7
+
+[Lectio10]
+@Sancti/02-05:Lectio7:s/.*Quibus/Quibus/s s/$/~/
+@Sancti/02-05:Lectio8:s/ Grátias.*//s
+
+[Responsory10]
+@Sancti/02-05:Responsory8
+
+[Lectio11]
+@Sancti/02-05:Lectio8:s/.*Grátias/Grátias/s
+
+[Responsory11]
+R Benedíctus es, † Dómine, qui liberásti corpus meum a pollutióne, et fecísti me víncere vínculum, gládium et ignem:
+* Súscipe me, Dómine, in número ancillárum tuárum.
+V. Laudem tibi réferens, grátias ago, qui liberásti corpus meum a pollutióne.
+
+[Lectio12]
+@Sancti/02-05:Lectio9
+
+[Responsory12]
+R Veni, † Sponsa Christi, áccipe corónam, quam tibi Dóminus præparávit in ætérnum; pro cujus amóre sánguinem tuum fudísti,
+* Et cum Angelis in paridísum introísti.
+V. Veni, elécta mea, et ponam in te thronum meum; quia concupívit Rex spéciem tuam.
+R. Et cum Angelis in paridísum introísti.
+
+[LectioE]
+@Commune/C6a:Evangelium1
