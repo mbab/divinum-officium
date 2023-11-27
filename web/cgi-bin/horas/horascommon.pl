@@ -631,7 +631,7 @@ sub concurrence {
 	
 	if($cwinner{Rule} =~ /No prima vespera/i
 			|| ($version =~ /1955/ && $cwrank[2] < 5)	# Reduced 1955: No 1st Vespers except for Duplex I. cl & II. cl & Dominica
-			|| ($version =~ /196/i && $cwrank[2] < (($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6)) ? 5 : 6)) # In 1960, II. cl. feasts have I. Vespers if and only if they're feasts of the Lord on a Sunday.
+			|| ($version =~ /196/i && $version !~ /Monastic/i && $cwrank[2] < (($cwrank[0] =~ /Dominica/i || ($cwinner{Rule} =~ /Festum Domini/i && $dayofweek == 6)) ? 5 : 6)) # In 1960, II. cl. feasts have I. Vespers if and only if they're feasts of the Lord on a Sunday.
 			|| ($cwinner{Rank} =~ /Feria|Sabbato|Vigilia|Quat[t]*uor/i && $cwinner{Rank} !~ /in Vigilia Epi|in octava|infra octavam|Dominica|C10/i) # no Ferias, Vigils and infra Oct days
 			|| ($cwinner{Rank} =~ /infra octavam/i && $cwinner{Rank} !~ /Dominica/i && ($version =~ /trident/i || $sanctoraloffice == $csanctoraloffice))  # before DA infra octavam always gets commemorated as at 2nd Vespers; after DA also when the office is of the octave
 			|| ($weekname =~ /Pasc[07]/i && $cwinner{Rank} !~ /Dominica/i)	# infra 8vam Pasch & Pent
