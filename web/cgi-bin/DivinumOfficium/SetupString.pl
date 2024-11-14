@@ -255,6 +255,7 @@ AUTEM: for (split /\baut\b/, $condition) {
 # their contents. $basedir and $lang are used for inclusions only.
 sub setupstring_parse_file($$$) {
   my ($fullpath, $basedir, $lang) = @_;
+
   my @filelines = do_read($fullpath) or return '';
 
   # Regex for matching section headers.
@@ -672,9 +673,15 @@ sub officestring($$;$) {
   my $m = 0;
   my $w = 0;
   if ($monthday =~ /([0-9][0-9])([0-9])\-[0-9]/) { $m = $1; $w = $2; }
-  my @months = ('Augusti', 'Septembris', 'Octobris', 'Novembris', 'Decembris');
   my @weeks = ('I.', 'II.', 'III.', 'IV.', 'V.');
-  if ($m) { $m = $months[$m - 8]; }
+
+  if ($m) {
+
+    # translate is not yet available
+    my %m = %{setupstring($lang, 'Psalterium/Common/Translate.txt')};
+    my @months = split("\n", $m{Menses});
+    $m = $months[$m - 8];
+  }
   if ($w) { $w = $weeks[$w - 1]; }
   $rank[0] .= " $w $m";
   $s{Rank} = join(';;', @rank);

@@ -306,3 +306,57 @@ Witaj Królowo
 
 [#Commemoratio defunctorum]
 #Wspomnienie zmarłych
+
+[Menses]
+sierpnia
+września
+października
+listopada
+grudnia
+
+[Festa]
+none
+ryt prosty
+ryt półzdwojony
+ryt zdwojony
+ryt zdwojony większy
+ryt zdwojony II. klasy
+ryt zdwojony I. klasy
+ryt zdwojony I. klasy
+
+[Festa] (rubrica 196)
+Feria
+IV. klasy
+III. klasy
+III. klasy
+III. klasy
+II. klasy
+I. klasy
+I. klasy
+
+[Dominicae]
+ryt zdwojony I. klasy
+niedziela ryt półzdwojony I klasy
+niedziela ryt półzdwojony II klasy
+niedziela antycypowana ryt półzdwojony
+(sed rubrica Tridentina)
+niedziela antycypowana ryt prosty
+niedziela mniejsza ryt półzdwojony
+
+[Feriae]
+Feria
+Feria uprzywilejowana
+Feria większa
+
+[Vigilia]
+Wigilja
+
+[Dies Octavæ]
+Dzieńi Oktawy
+
+[ordinis]
+ordynku
+
+[classis]
+klasy
+

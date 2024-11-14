@@ -416,3 +416,56 @@ Salve Regina
 
 [#Commemoratio defunctorum]
 [#Commemoratio defunctorum]
+
+[Menses]
+Augusti
+Septembris
+Octobris
+Novembris
+Decembris
+
+[Festa]
+none
+Simplex
+Semiduplex
+Duplex
+Duplex majus
+Duplex II. classis
+Duplex I. classis
+Duplex I. classis
+
+[Festa] (rubrica 196)
+Feria
+IV. classis
+III. classis
+III. classis
+III. classis
+II. classis
+I. classis
+I. classis
+
+[Dominicae]
+Duplex I. classis
+Semiduplex Dominica I. classis
+Semiduplex Dominica II. classis
+Semiduplex Dominica anticipiata
+(sed rubrica Tridentina)
+Simplex Dominica anticipiata
+Semiduplex Dominica minor
+
+[Feriae]
+Feria
+Feria privilegiata
+Feria major
+
+[Vigilia]
+Vigilia
+
+[Dies Octavæ]
+Dies Octavæ
+
+[ordinis]
+ordinis
+
+[classis]
+classis
