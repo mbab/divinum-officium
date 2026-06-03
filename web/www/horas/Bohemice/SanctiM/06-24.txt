@@ -8,18 +8,10 @@ Psalmi Dominica
 @Sancti/06-24::1-4
 
 [AntMatutinumM]
-Nazarejcem * bude nazýván tento chlapec: † vína a kořalky pít nebude, a nic nečistého nebude jíst od svého narození.;;63
-Bude totiž * veliký před Pánem: † neboť i jeho ruka bude s ním.;;64
-On sám půjde * před ním v duchu a moci Eliášově † připraviti Pánu lid dokonalý.;;91
-
-[AntMatutinumM] (rubrica cisterciensis)
-Jan * bude jméno jeho, vína a kořalky pít nebude, a mnozí se z jeho narození budou radovat.;;63
-On sám půjde * před ním v duchu a moci Eliášově, aby připravil Hospodinu dokonalý lid.;;64
-Nazarejcem * bude nazýván tento chlapec: † vína a kořalky pít nebude, a nic nečistého nebude jíst od svého narození.;;91
-
-[Ant Matutinum 3N]
-Descéndit * angelus Dómini ad Zacharíam, dicens: † Accípe púerum in senectúte tua, et habébit nomen Joánnes Baptísta.
-(sed rubrica cisterciensis)
+Nazarejcem * bude nazýván tento chlapec: † vína a kořalky pít nebude, a nic nečistého nebude jíst od svého narození.
+Bude totiž * veliký před Pánem: † neboť i jeho ruka bude s ním.
+On sám půjde * před ním v duchu a moci Eliášově † připraviti Pánu lid dokonalý.
+Jan * bude jméno jeho, vína a kořalky pít nebude, a mnozí se z jeho narození budou radovat.
 Protože jsi neuvěřil * mým slovům, budeš mlčet, a nebudeš moci promluvit až do dne jeho narození.
 
 [Ant Matutinum]
